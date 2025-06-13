@@ -1,0 +1,1 @@
+# DMS.Demo.Linter.StyleCop
